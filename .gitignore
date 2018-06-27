@@ -4,6 +4,7 @@
 */DerivedDataCache
 */Saved
 *_BuiltData.uasset
+*.ipch
 
 *.VC.db
 
