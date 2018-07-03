@@ -7,5 +7,6 @@
 *.ipch
 
 *.VC.db
+*.VC.opendb
 
 BuildingEscape/Content/StarterContent/
